@@ -4,7 +4,7 @@ A Hexo Flat Modular Template for Blogging and Static Website Generation | Netlif
 
 ## Project Introduction
 
-This Project is made by DF Community and is based on Hexo Theme named Web-Nary and Official Hexo-Plugins. This is NOT a entirely "New Idea" but an upgrade to existing a Hexo Theme and some Plugins. For any Query and Error Troubleshooting contact the Maintainer at "bravo68web@dfcommunity.win" or through Pull Request.
+This Project is made by DF Community and is based on Hexo Theme named Web-Nary and Official Hexo-Plugins. This is NOT a entirely a "New Idea" but an upgrade to existing a Hexo Theme and some Plugins. For any Query and Error Troubleshooting contact the Maintainer at "bravo68web@dfcommunity.win" or through Pull Request.
 
 [Demo Site](http://webnary.netlify.app) | [Live Production Use Site](https://library.dfcommunity.win)
 
