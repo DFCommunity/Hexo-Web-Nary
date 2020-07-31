@@ -7,9 +7,9 @@
       "permalink": "https://webnary.netlify.app/Examples/",
       "hexoPublished": true,
       "tags": [
-        "hello",
+        "embed",
         "test",
-        "world"
+        "examples"
       ]
     },
     {
@@ -17,8 +17,8 @@
       "permalink": "https://webnary.netlify.app/hello-world/",
       "hexoPublished": true,
       "tags": [
-        "hello",
         "test",
+        "hello",
         "world"
       ]
     },
@@ -29,20 +29,20 @@
       "tags": []
     },
     {
-      "title": "About",
-      "permalink": "https://webnary.netlify.app/about/index.html",
-      "hexoPublished": true,
-      "tags": []
-    },
-    {
       "title": "search",
       "permalink": "https://webnary.netlify.app/search/index.html",
       "hexoPublished": true,
       "tags": []
     },
     {
+      "title": "About",
+      "permalink": "https://webnary.netlify.app/about/index.html",
+      "hexoPublished": true,
+      "tags": []
+    },
+    {
       "title": "Contact Us",
-      "permalink": "https://webnary.netlify.app/Contact-Us/index.html",
+      "permalink": "https://webnary.netlify.app/contact/index.html",
       "hexoPublished": true,
       "tags": []
     }

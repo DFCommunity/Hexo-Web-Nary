@@ -123,7 +123,7 @@ menu:
   home: / 
   archive: /archives
   about: /about
-  contact-us: /contact-us
+  contact: /contact
 
 loader_img: 'https://digitalsynopsis.com/wp-content/uploads/2016/06/loading-animations-preloader-gifs-ui-ux-effects-4.gif'
 header_cover: 'https://raw.githubusercontent.com/DFCommunity/img-stack/master/Library-min.jpg'
