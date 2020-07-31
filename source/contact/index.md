@@ -1,11 +1,10 @@
 ---
-title: "Contact Us"
-date: 2020-07-30 20:54:54
+title: Contact Form
+date: 2020-07-31 12:44:39
 type: contact
 layout: contact
 ---
-
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact-form" method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
@@ -22,4 +21,3 @@ layout: contact
     <button type="submit">Send</button>
   </p>
 </form>
-

@@ -4,7 +4,7 @@
   "to-publish": [
     {
       "title": "Examples",
-      "permalink": "https://webnary.netlify.app/Examples/",
+      "permalink": "http://webnary.netlify.app/Examples/",
       "hexoPublished": true,
       "tags": [
         "embed",
@@ -14,7 +14,7 @@
     },
     {
       "title": "Hello World",
-      "permalink": "https://webnary.netlify.app/hello-world/",
+      "permalink": "http://webnary.netlify.app/hello-world/",
       "hexoPublished": true,
       "tags": [
         "test",
@@ -24,25 +24,25 @@
     },
     {
       "title": "404 Page Not Found",
-      "permalink": "https://webnary.netlify.app/404.html",
-      "hexoPublished": true,
-      "tags": []
-    },
-    {
-      "title": "search",
-      "permalink": "https://webnary.netlify.app/search/index.html",
+      "permalink": "http://webnary.netlify.app/404.html",
       "hexoPublished": true,
       "tags": []
     },
     {
       "title": "About",
-      "permalink": "https://webnary.netlify.app/about/index.html",
+      "permalink": "http://webnary.netlify.app/about/index.html",
       "hexoPublished": true,
       "tags": []
     },
     {
-      "title": "Contact Us",
-      "permalink": "https://webnary.netlify.app/contact/index.html",
+      "title": "Contact Form",
+      "permalink": "http://webnary.netlify.app/contact/index.html",
+      "hexoPublished": true,
+      "tags": []
+    },
+    {
+      "title": "search",
+      "permalink": "http://webnary.netlify.app/search/index.html",
       "hexoPublished": true,
       "tags": []
     }
