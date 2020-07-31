@@ -2,9 +2,9 @@
 title: Examples
 date: 2020-07-30 14:15:01
 tags: 
-- "hello"
+- "embed"
 - "test"
-- "world"
+- "examples"
 subtitle: "A Example Blog for Web-Nary Blog"
 author: 
   nick: Barvo68Web

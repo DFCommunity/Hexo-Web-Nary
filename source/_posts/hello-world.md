@@ -5,7 +5,7 @@ tags:
 - "hello"
 - "test"
 - "world"
-subtitle: "A Example Blog for Web-Nary Blog"
+subtitle: "The Deafult Hexo Blog"
 author: 
   nick: Barvo68Web
   link: https://bravo68web.dfcommunity.win/
