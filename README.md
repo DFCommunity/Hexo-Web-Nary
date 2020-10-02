@@ -39,7 +39,6 @@ This Project is made by DF Community and is based on Hexo Theme named Web-Nary a
 <img src="https://raw.githubusercontent.com/hexojs/logo/master/hexo-logo-avatar.png" alt="Hexo logo" width="100" height="100" align="right" />
 
 
-
 ## Features
 
 - Blazing fast generating
