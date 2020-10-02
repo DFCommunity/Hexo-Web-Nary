@@ -29,12 +29,6 @@
       "tags": []
     },
     {
-      "title": "About",
-      "permalink": "http://webnary.netlify.app/about/index.html",
-      "hexoPublished": true,
-      "tags": []
-    },
-    {
       "title": "Contact Form",
       "permalink": "http://webnary.netlify.app/contact/index.html",
       "hexoPublished": true,
@@ -43,6 +37,12 @@
     {
       "title": "search",
       "permalink": "http://webnary.netlify.app/search/index.html",
+      "hexoPublished": true,
+      "tags": []
+    },
+    {
+      "title": "About",
+      "permalink": "http://webnary.netlify.app/about/index.html",
       "hexoPublished": true,
       "tags": []
     }
